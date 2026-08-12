@@ -1,3 +1,5 @@
+## Rate limiter for backend function misuse
+Rate limiting of backend functions, to limit economical costs due to misuse.
 
 ## How to check if rate limit is triggered
 
